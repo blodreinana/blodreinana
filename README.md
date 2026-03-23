@@ -5,7 +5,7 @@
 
 <p align="center">
   🦇 <b>Estagiária em Engenharia de Dados</b> na Skyone Solutions 🦇 <br><br>
-  ⛓️ Tecendo a arquitetura do abismo: Estudante de <b>Ciência de Dados</b>, com foco oculto em <b>Engenharia de Dados</b> e <b>Backend</b>. ⛓️<br>
+  ⛓️ Tecendo a arquitetura do abismo: Estudante de <b>Ciência de Dados</b>, com foco oculto em <b>Engenharia de Dados</b>, <b>Backend</b> e  <b>Soluções End-To-End</b>. ⛓️<br>
   🩸 <i>Relíquia: Medalha de Prata no FIAP/OTIS Challenge (Projeto Ascensus).</i> 🩸
 </p>
 
@@ -23,7 +23,7 @@
 ### 🦇 Sombras no GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=blodreinana&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=blodreinana&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&hide_rank=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blodreinana&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117"/>
 </div>
 
