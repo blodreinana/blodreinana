@@ -23,17 +23,22 @@
 ### 🦇 Sombras no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=blodreinana&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blodreinana&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blodreinana&theme=dracula"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blodreinana&theme=dracula"/>
 </div>
 
 ### 🕷️ Entre no meu domínio
 
 <p align="center">
-  <a href="mailto:seu-email@gmail.com" target="_blank">
+  <a href="mailto:allanacampos04@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/allanacampos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=red" alt="LinkedIn" />
   </a>
 </p>
