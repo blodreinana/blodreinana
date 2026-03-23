@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
+  <h1>⸸ Olá, eu sou a Lana!! ⸸</h1>
+  <p><i>"Deep into that darkness peering, long I stood there wondering, fearing..." — Edgar Allan Poe</i></p>
+</div>
 
-<!--
-**blodreinana/blodreinana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🦇 <b>Estagiária em Engenharia de Dados</b> na Skyone Solutions 🦇 <br><br>
+  ⛓️ Tecendo a arquitetura do abismo: Estudante de <b>Ciência de Dados</b>, com foco oculto em <b>Engenharia de Dados</b> e <b>Backend</b>. ⛓️<br>
+  🩸 <i>Relíquia: Medalha de Prata no FIAP/OTIS Challenge (Projeto Ascensus).</i> 🩸
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🕸️ O Grimório de Tecnologias
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=red" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=red" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=red" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=red" />
+</p>
+
+### 🦇 Sombras no GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117"/>
+</div>
+
+### 🕷️ Entre no meu domínio
+
+<p align="center">
+  <a href="mailto:seu-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=red" alt="LinkedIn" />
+  </a>
+</p>
+
+<div align="center">
+  <br>
+  <i>"Quoth the Server, '404 Nevermore'."</i>
+</div>
