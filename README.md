@@ -5,7 +5,7 @@
 
 <p align="center">
   🦇 <b>Estagiária em Engenharia de Dados</b> na Skyone Solutions 🦇 <br><br>
-  ⛓️ Tecendo a arquitetura do abismo: Estudante de <b>Ciência de Dados</b>, com foco oculto em <b>Engenharia de Dados</b>, <b>Backend</b> e  <b>Soluções End-To-End</b>. ⛓️<br>
+  ⛓️ Tecendo a arquitetura do abismo: Estudante de <b>Ciência de Dados</b>, com foco oculto em <b>Engenharia de Dados</b>, <b>Analytics</b> e  <b>Soluções End-To-End</b>. ⛓️<br>
   🩸 <i>Relíquia: Medalha de Prata no FIAP/OTIS Challenge (Projeto Ascensus).</i> 🩸
 </p>
 
