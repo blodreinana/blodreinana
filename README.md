@@ -1,17 +1,17 @@
 <div align="center">
-  <h1>⸸ Olá, eu sou a Lana!! ⸸</h1>
+  <h1>⸸ Hi, I'm Lana!! ⸸</h1>
   <p><i>"Deep into that darkness peering, long I stood there wondering, fearing..." — Edgar Allan Poe</i></p>
 </div>
 
 <p align="center">
-  🦇 <b>Estagiária em Engenharia de Dados</b> na Skyone Solutions 🦇 <br><br>
-  ⛓️ Estudante de <b>Ciência de Dados</b>, com foco oculto em <b>Engenharia de Dados</b>, <b>Analytics</b> e  <b>Soluções End-To-End</b>. ⛓️<br>
-  🩸 <i>Relíquia: Medalha de Prata no FIAP/OTIS Challenge (Projeto Ascensus).</i> 🩸
+  🦇 <b>Data Engineering Intern</b> at Skyone Solutions 🦇 <br><br>
+  ⛓️ <b>Data Science</b> student, with an occult focus on <b>Data Engineering</b>, <b>Analytics</b>, and <b>End-To-End Solutions</b>. ⛓️<br>
+  🩸 <i>Relic: Silver Medal at FIAP/OTIS Challenge (Project Ascensus).</i> 🩸
 </p>
 
 ---
 
-### 🕸️ O Grimório de Tecnologias
+### 🕸️ Grimoire of Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=red" />
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=red" />
 </p>
 
-### 🦇 Sombras no GitHub
+### 🦇 Shadows on GitHub
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=blodreinana&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&hide_rank=true"/>
@@ -32,7 +32,7 @@
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blodreinana&theme=dracula"/>
 </div>
 
-### 🕷️ Entre no meu domínio
+### 🕷️ Enter my domain
 
 <p align="center">
   <a href="mailto:allanacampos04@gmail.com" target="_blank">
