@@ -11,7 +11,7 @@
 
 ---
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api?username=blodreinana&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=cc1a1a&icon_color=8b0000&text_color=c9d1d9&hide_rank=true" />
+<img align="right" width="320" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=blodreinana&theme=dracula" />
 
 ### 🦇 Wanderer of the dark
 
@@ -54,8 +54,8 @@
 ### 🦇 Shadows on GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blodreinana&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=cc1a1a&text_color=c9d1d9"/>
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blodreinana&theme=dracula"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blodreinana&theme=dracula"/>
 </div>
 
 <div align="center">
@@ -68,11 +68,12 @@
 
 <div align="center">
 
-[![Project Ascensus](https://github-readme-stats.vercel.app/api/pin/?username=blodreinana&repo=ASCENSUS-Challenge-FIAP-OTIS&theme=dracula&hide_border=true&bg_color=0D1117&title_color=cc1a1a&icon_color=8b0000&text_color=c9d1d9)](https://github.com/blodreinana/ASCENSUS-Challenge-FIAP-OTIS)
-[![Análise Financeira](https://github-readme-stats.vercel.app/api/pin/?username=blodreinana&repo=analiseFinanceiraSalao&theme=dracula&hide_border=true&bg_color=0D1117&title_color=cc1a1a&icon_color=8b0000&text_color=c9d1d9)](https://github.com/blodreinana/analiseFinanceiraSalao)
-
-[![Previsão de Vendas](https://github-readme-stats.vercel.app/api/pin/?username=blodreinana&repo=previsaoVendasPython&theme=dracula&hide_border=true&bg_color=0D1117&title_color=cc1a1a&icon_color=8b0000&text_color=c9d1d9)](https://github.com/blodreinana/previsaoVendasPython)
-[![Automação Excel](https://github-readme-stats.vercel.app/api/pin/?username=blodreinana&repo=automacaoExcel&theme=dracula&hide_border=true&bg_color=0D1117&title_color=cc1a1a&icon_color=8b0000&text_color=c9d1d9)](https://github.com/blodreinana/automacaoExcel)
+| 🩸 | Projeto | Descrição |
+|---|---|---|
+| 🥈 | [**ASCENSUS — FIAP/OTIS Challenge**](https://github.com/blodreinana/ASCENSUS-Challenge-FIAP-OTIS) | Sistema IoT ponta a ponta para monitoramento inteligente de elevadores · Silver Medal |
+| 🦇 | [**Análise Financeira — Salão**](https://github.com/blodreinana/analiseFinanceiraSalao) | Dashboard de fluxo de caixa e lucratividade para o setor de estética |
+| 🦇 | [**Previsão de Vendas**](https://github.com/blodreinana/previsaoVendasPython) | Modelos de ML para análise preditiva de demanda e otimização de estoque |
+| 🦇 | [**Automação Financeira**](https://github.com/blodreinana/automacaoExcel) | Scripts Python para processamento automático de dados e geração de relatórios |
 
 </div>
 
