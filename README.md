@@ -40,7 +40,6 @@
 ![Airflow](https://img.shields.io/badge/Airflow-000000?style=for-the-badge&logo=apacheairflow&logoColor=red)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=red)
 ![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=red)
-![GCP](https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=googlecloud&logoColor=red)
 
 **⸸ Analytics & Viz**
 
